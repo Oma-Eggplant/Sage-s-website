@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Rock+Salt|Handlee);
+
+body {background-color:#7EE898;
+	font-family: 'Handlee', cursive;
+
+}
+	
+h1 {
+	color:#5E3829;
+	font-family: 'Rock Salt', cursive;
+}
+
+a:link, a:visited{
+	color:#BC62FF;
+}
+#p1{
+	color:#FF0000;
+}
+#p2{
+	color:#FF992C;
+}
+p.hello {
+	color:#1208FF;
+}
+
+
+	
+
+
